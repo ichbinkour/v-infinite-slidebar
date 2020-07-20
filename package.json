@@ -1,19 +1,18 @@
 {
-  "name": "v-infinite",
+  "name": "v-infinite-slidebar",
   "version": "1.0.1",
-  "description": "",
-  "main": "dist/my-component.umd.js",
+  "description": "✨ An infinite slidebar build for Vue project ✨",
+  "main": "dist/v-infinite.min.js",
   "scripts": {
     "dev": "vue serve --open dev/App.vue",
-    "build": "rollup -c",
-    "prepublish": "rollup -c"
+    "build": "rollup -c"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ichbinkour/v-infinite.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Valentin Ichkour <valentin.ichkour@epitech.eu>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ichbinkour/v-infinite/issues"
   },
