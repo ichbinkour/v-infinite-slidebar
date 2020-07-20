@@ -2,9 +2,10 @@
   "name": "v-infinite",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/my-component.umd.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vue serve --open dev/App.vue",
+    "build": "rollup -c"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/ichbinkour/v-infinite/issues"
   },
-  "homepage": "https://github.com/ichbinkour/v-infinite#readme"
+  "homepage": "https://github.com/ichbinkour/v-infinite#readme",
+  "devDependencies": {
+    "rollup": "^1.17.0",
+    "@rollup/plugin-buble": "^0.21.3",
+    "@rollup/plugin-commonjs": "^11.1.0",
+    "rollup-plugin-vue": "^5.0.1",
+    "vue": "^2.6.10",
+    "vue-template-compiler": "^2.6.10"
+  }
 }
