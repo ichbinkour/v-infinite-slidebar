@@ -1,0 +1,19 @@
+{
+  "name": "v-infinite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichbinkour/v-infinite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ichbinkour/v-infinite/issues"
+  },
+  "homepage": "https://github.com/ichbinkour/v-infinite#readme"
+}
