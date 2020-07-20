@@ -1,6 +1,6 @@
 {
   "name": "v-infinite-slidebar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "✨ An infinite slidebar build for Vue project ✨",
   "main": "dist/v-infinite.min.js",
   "scripts": {
