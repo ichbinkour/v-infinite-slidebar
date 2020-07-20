@@ -5,7 +5,8 @@
   "main": "dist/my-component.umd.js",
   "scripts": {
     "dev": "vue serve --open dev/App.vue",
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "prepublish": "rollup -c"
   },
   "repository": {
     "type": "git",
