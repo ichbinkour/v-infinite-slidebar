@@ -8,7 +8,7 @@
 
 
 
-> [Demo](https://ichbinkour.github.io/v-infinite-slidebar)
+> [Demo](https://ichbinkour.github.io/#/v-infinite-slidebar)
 
 ## Installation
 
