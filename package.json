@@ -11,6 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/ichbinkour/v-infinite.git"
   },
+  "keywords": [
+    "vue",
+    "plugin",
+    "infinite",
+    "slidebar",
+    "awesome-vue"
+  ],
   "author": "Valentin Ichkour <valentin.ichkour@epitech.eu>",
   "license": "MIT",
   "bugs": {
